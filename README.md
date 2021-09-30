@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wes</h1>
 <h3 align="center">A passionate frontend developer from Vienna</h3>
 
-- 🔭 I’m currently working on **pet projects**
-
 - 🌱 I’m currently learning **Accessibility, Performance, Web Security, UX**
 
 - 📫 How to reach me **w.stockfisch@gmail.com**
